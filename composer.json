@@ -1,0 +1,21 @@
+{
+    "name": "edoriansyah/yii2-alert-nf",
+    "description": "Widget Alert twiter bootstrap fo Yii Framework 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension.alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "edoriansyah",
+            "email": "eodriansyah@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "edoriansyah\\alert\\": ""
+        }
+    }
+}
